@@ -2,7 +2,7 @@
 Backend software for Phonebook UI (https://github.com/MarynaPyvovar/goit-react-hw-08-phonebook)
 
 ## Links
-- Repository https://github.com/MarynaPyvovar/nodejs-homework
+- https://github.com/MarynaPyvovar/PhoneBook-REST-API
 
 ## Available Commands
 
